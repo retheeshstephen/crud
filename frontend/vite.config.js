@@ -6,4 +6,5 @@ export default defineConfig({
   resolve: {
     extensions: ['.js', '.jsx'], // Ensure it supports JSX
   },
+  base:"/vite-deploy/"
 });
